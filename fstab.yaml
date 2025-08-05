@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: https://content.da.live/haug124/BI/
+    url: https://content.da.live/demo-system-stores/kevin-4jj6-citisignal
     type: markup
 
 folders:
